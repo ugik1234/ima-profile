@@ -1,0 +1,9 @@
+<?php
+$this->load->view('section/header');
+$this->load->view('section/about');
+$this->load->view('section/feature');
+$this->load->view('section/statistik');
+$this->load->view('section/usaha');
+$this->load->view('section/patner');
+$this->load->view('section/visi_misi');
+$this->load->view('section/kontak');
