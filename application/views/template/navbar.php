@@ -141,7 +141,7 @@
                            <div class="navbar-header">
                                <div class="mobile-logo my-15">
                                    <a href="index.html">
-                                       <img src="assets/images/logos/logo-two.png" alt="Logo" title="Logo">
+                                       <img src="<?=base_url()?>assets/images/ima.png" alt="Logo" title="Logo">
                                    </a>
                                </div>
 
@@ -184,19 +184,17 @@
                    </div>
 
                    <!-- Nav Search -->
-                   <div class="nav-search py-15">
+                   <!-- <div class="nav-search py-15">
                        <button class="far fa-search"></button>
                        <form action="#" class="hide">
                            <input type="text" placeholder="Search" class="searchbox" required="" />
                            <button type="submit" class="searchbutton far fa-search"></button>
                        </form>
-                   </div>
+                   </div> -->
 
-                   <!-- Menu Button -->
-                   <div class="menu-btns">
+                   <!-- <div class="menu-btns">
                        <a href="contact.html" class="theme-btn style-three">Get a Quote <i class="fas fa-angle-double-right"></i></a>
 
-                       <!-- menu sidbar -->
                        <div class="menu-sidebar">
                            <button>
                                <span class="icon-bar"></span>
@@ -204,7 +202,7 @@
                                <span class="icon-bar"></span>
                            </button>
                        </div>
-                   </div>
+                   </div> -->
                </div>
            </div>
        </div>
